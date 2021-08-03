@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.31424.327
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Parallel Arrays", "Parallel Arrays\Parallel Arrays.csproj", "{FB448DBA-FB41-4220-BF5D-14CA8E10304C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Parallel Arrays", "Parallel Arrays\Parallel Arrays.csproj", "{FB448DBA-FB41-4220-BF5D-14CA8E10304C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GradeList", "GradeList\GradeList.csproj", "{163E8E5B-D59B-4D5D-8AAD-F66B7A6EA735}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GradeList", "GradeList\GradeList.csproj", "{163E8E5B-D59B-4D5D-8AAD-F66B7A6EA735}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionaries", "Dictionaries\Dictionaries.csproj", "{2346DD81-9EA2-4507-9469-A60CE733A519}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{163E8E5B-D59B-4D5D-8AAD-F66B7A6EA735}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{163E8E5B-D59B-4D5D-8AAD-F66B7A6EA735}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{163E8E5B-D59B-4D5D-8AAD-F66B7A6EA735}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2346DD81-9EA2-4507-9469-A60CE733A519}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2346DD81-9EA2-4507-9469-A60CE733A519}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2346DD81-9EA2-4507-9469-A60CE733A519}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2346DD81-9EA2-4507-9469-A60CE733A519}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
